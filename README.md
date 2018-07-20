@@ -1,7 +1,7 @@
 # Funcky.Remarkable.Exporter
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/SimonBaudart)
 
-Synchronize notes from a Remarkable Tablet to File System, Evernote, ...
+Export notes from a Remarkable Tablet to File System, Evernote, ...
 
 ## Disclaimer
 
