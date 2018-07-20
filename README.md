@@ -1,5 +1,5 @@
 # Funcky.Remarkable.Exporter
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/SimonBaudart)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FER3YNBKV9DEA)
 
 Export notes from a Remarkable Tablet to File System, Evernote, ...
 
@@ -119,7 +119,7 @@ A big thank to all the following resources that helped me to build this project 
 ## Buy Me A Beer
 If this project help you, you can give me a beer :) 
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/SimonBaudart/10)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FER3YNBKV9DEA)
 
 # One More Time : Disclaimer
 
