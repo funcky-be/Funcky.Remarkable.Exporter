@@ -24,7 +24,7 @@ And now, let's start with the fun !
 To configure the workers, you have to use a json file and reference in the app.config file.
 
 ### Documented devices.json
-```json
+```
 {
   "devices": [
     {
