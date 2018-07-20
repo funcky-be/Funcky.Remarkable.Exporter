@@ -20,8 +20,8 @@ And now, let's start with the fun !
 
 # How does it works ?
 
-The program runs some steps and use the Remarkable Api to get the files, and then process all the .lines to draw a png.
-After this step, you can do whatever you want with the PNG, in my case, I send it to Evernote.
+The program runs some steps and use the Remarkable Api to get the files, and then process all the .lines to draw a PNG.
+After these steps, you can do whatever you want with the PNG, in my case, I send it to Evernote.
 
 ## Step 0 : Requirements and setup
 This project is in .Net, obviously, you need the .Net Framework.
